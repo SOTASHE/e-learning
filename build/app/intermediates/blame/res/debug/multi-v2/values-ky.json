@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sinaye/Desktop/e-learning-app-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "/home/sinaye/Desktop/e-learning/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/home/sinaye/.gradle/caches/transforms-2/files-2.1/ed21780ba9763481a6c4a03a131a2344/jetified-play-services-basement-17.0.0/res/values-ky/values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sinaye/Desktop/e-learning-app-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/home/sinaye/Desktop/e-learning/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/home/sinaye/.gradle/caches/transforms-2/files-2.1/963e899385f2dce978a0273a28b9201f/core-1.1.0/res/values-uz/values-uz.xml",

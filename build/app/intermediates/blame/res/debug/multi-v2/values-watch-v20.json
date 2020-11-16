@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sinaye/Desktop/e-learning-app-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/home/sinaye/Desktop/e-learning/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/home/sinaye/.gradle/caches/transforms-2/files-2.1/712d79e8fd825d75ec1bbd306e43d332/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",
